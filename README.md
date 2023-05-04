@@ -2,7 +2,7 @@
 
 ## Description
 
-A Collection of React Hooks ready to use with examples
+A Collection of React Hooks Ready to be Used with Examples
 
 ### List
 
