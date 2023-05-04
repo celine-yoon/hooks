@@ -6,14 +6,14 @@ A Collection of React Hooks Ready to be Used with Examples
 
 ### List
 
-| Hook            | Description                                               | Path                                                                              |
+| Hook            | Description                                               | Folder                                                                            |
 | --------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | useAxios        | Make HTTP request using Axios.                            | [useAxios](https://github.com/celine-yoon/hooks/tree/main/useAxios)               |
 | useBeforeLeave  | Execute a function when the mouse leaves the document.    | [useBeforeLeave](https://github.com/celine-yoon/hooks/tree/main/useBeforeLeave)   |
 | useClick        | Update your document's title.                             | [useClick](https://github.com/celine-yoon/hooks/tree/main/useClick)               |
 | useConfirm      | Prompt a confirmation before executing a function.        | [useConfirm](https://github.com/celine-yoon/hooks/tree/main/useConfirm)           |
 | useFadeIn       | Fade in any element.                                      | [useFadeIn](https://github.com/celine-yoon/hooks/tree/main/useFadeIn)             |
-| useFullscreen   | Make any element go Fullscreen.                           | [useFullscreen](https://github.com/celine-yoon/hooks/tree/main/useFullScreen)     |
+| useFullscreen   | Make any element go Fullscreen.                           | [useFullscreen](https://github.com/celine-yoon/hooks/tree/main/useFullscreen)     |
 | useHover        | Detect a hover on any React Element.                      | [useHover](https://github.com/celine-yoon/hooks/tree/main/useHover)               |
 | useInput        | Update an input.                                          | [useInput](https://github.com/celine-yoon/hooks/tree/main/useInput)               |
 | useNetwork      | Listen when the user goes online or offline.              | [useNetwork](https://github.com/celine-yoon/hooks/tree/main/useNetwork)           |
